@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Codewars](https://www.codewars.com/users/skaarj1989/badges/small)](www.codewars.com/r/PGXoxA)
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaarj1989&show_icons=true&count_private=true)](https://github.com/skaarj1989)
+
 <!--
 **skaarj1989/skaarj1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
