@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" />
   <br/>
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=OpenGL" />
+  <img alt="OpenGL" src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenGL&color=5586A4&logo=OpenGL&logoColor=FFFFFF&label=" />
+  <img alt="Vulkan" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=AC162C&logo=Vulkan&logoColor=FFFFFF&label=" />
   <br/>
   <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <br/>
