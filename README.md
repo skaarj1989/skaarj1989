@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ### How to reach me:
 
-<a href="mailto:skaarj1989@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=GMail&logoColor=white" /></a>
+<p>
+  <a href="mailto:skaarj1989@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/823665776812621866/"><img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>
+</p>
 
 ### Tools & Technologies:
 
